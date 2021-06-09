@@ -80,3 +80,10 @@ database, Saya melakukan modularisasi dengan menambahkan kode require('../header
 * Output
 
 ![Capture](https://user-images.githubusercontent.com/56245855/121280366-6238ba80-c900-11eb-8f06-7a6ee92f7d6e.PNG)
+
+
+
+
+# Praktikum ke-10
+
+* link github. https://github.com/agungprastyo136/Lab10Web.git
